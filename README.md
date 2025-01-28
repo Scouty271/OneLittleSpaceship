@@ -11,3 +11,7 @@ The controls are simple: just tap the screen to move your ship and fire rockets.
 
 Ready to dive into an intergalactic battle and become the best? Your adventure starts now – have fun playing, and may the best pilot win!
 
+![Bild2](https://github.com/user-attachments/assets/903226c9-47b6-48b7-b67e-c8643524f715)
+![Bild3](https://github.com/user-attachments/assets/bf38e748-f5e8-4763-bdff-a079de5a4737)
+![Bild4](https://github.com/user-attachments/assets/80cb65c7-3d34-4555-b1cc-6e19817d011f)
+![Bild5](https://github.com/user-attachments/assets/06715a57-36e7-480a-89fd-4b1a66ac18ed)
