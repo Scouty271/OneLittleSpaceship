@@ -1,4 +1,4 @@
-Hello and welcome to my little Space Shooter Android Handy Game!
+Hello and welcome to my little Space Shooter Android mobile game!
 
 This game came about from a personal challenge. A good game in a few hours, and I'm proud of what it has become :D
 
